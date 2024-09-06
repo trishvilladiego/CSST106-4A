@@ -28,6 +28,8 @@ These techniques work together to improve the accuracy and efficiency of AI-driv
 
 - **Case Study Selection:**
 
+https://colab.research.google.com/github/asmaesough/Brain-Tumor-Detection/blob/main/Brain_Tumor_Detection.ipynb
+
 **Title: AI in Medical Imaging – Detecting Tumors in MRI Scans**
 
 An example of real-world AI application that utilizes computer vision is **medical imaging**, particularly in detecting abnormalities in X-rays or MRI scans. In this application, image processing techniques play a crucial role in improving diagnostic accuracy. Filtering is used to enhance image quality by reducing noise and artifacts, which helps in making subtle abnormalities more visible. Edge detection helps highlight boundaries of organs and potential issues such as tumors by identifying changes in tissue density. Segmentation is employed to isolate regions of interest, such as specific organs or lesions, allowing radiologists to focus on and analyze these areas in detail. These techniques collectively aid in the early and accurate detection of medical conditions, improving patient outcomes and facilitating better treatment planning.
