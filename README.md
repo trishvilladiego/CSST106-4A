@@ -51,6 +51,6 @@ Deep learning-based image analysis leverages convolutional neural networks (CNNs
 
 **Potential impact on future AI systems:**
 
-**Enhanced Accuracy and Efficiency:** Deep learning models significantly improve the accuracy of image classification, detection, and segmentation tasks. They can recognize intricate patterns and subtle details that traditional methods might miss, leading to more reliable AI systems.
+- **Enhanced Accuracy and Efficiency:** Deep learning models significantly improve the accuracy of image classification, detection, and segmentation tasks. They can recognize intricate patterns and subtle details that traditional methods might miss, leading to more reliable AI systems.
 
-**Automation and Scalability:** By automating feature extraction and classification, deep learning reduces the need for manual feature engineering and can scale to handle large volumes of image data, making it suitable for applications like medical imaging and autonomous vehicles.
+- **Automation and Scalability:** By automating feature extraction and classification, deep learning reduces the need for manual feature engineering and can scale to handle large volumes of image data, making it suitable for applications like medical imaging and autonomous vehicles.
