@@ -28,15 +28,27 @@ These techniques work together to improve the accuracy and efficiency of AI-driv
 
 - **Case Study Selection:**
 
+**Title: AI in Medical Imaging – Detecting Tumors in MRI Scans**
+
 An example of real-world AI application that utilizes computer vision is **medical imaging**, particularly in detecting abnormalities in X-rays or MRI scans. In this application, image processing techniques play a crucial role in improving diagnostic accuracy. Filtering is used to enhance image quality by reducing noise and artifacts, which helps in making subtle abnormalities more visible. Edge detection helps highlight boundaries of organs and potential issues such as tumors by identifying changes in tissue density. Segmentation is employed to isolate regions of interest, such as specific organs or lesions, allowing radiologists to focus on and analyze these areas in detail. These techniques collectively aid in the early and accurate detection of medical conditions, improving patient outcomes and facilitating better treatment planning.
 
 - **Implementation Creation:** 
 
-   **Problem:** Detecting Tumors in MRI Scans
 
-   **Image Processing Model:** Image Segmentation
+**How the model works:**
 
-(https://colab.research.google.com/github/asmaesough/Brain-Tumor-Detection/blob/main/Brain_Tumor_Detection.ipynb)
+![download (1)](https://github.com/user-attachments/assets/4427cab8-942e-4212-8d27-4f7ec0344234)
+- **Preprocessing:** MRI scans are preprocessed by normalizing pixel values and resizing images.
+- **Training:** The model is trained on labeled datasets with known tumor regions.
+- **Segmentation:** Each pixel is classified as tumor or non-tumor, creating a mask that highlights the tumor region.
+
+
+**How it solves the problem:**
+
+![download (2)](https://github.com/user-attachments/assets/d72f180e-5db1-4269-bf40-4466bb78505f)
+- **Precise Tumor Identification:** Helps in clearly identifying the tumor boundary, aiding radiologists in making more accurate diagnoses.
+- **Automated Process:** Reduces manual effort, speeding up the diagnostic process.
+- **Visual Output:** The model generates a segmented image where the tumor is highlighted, making it easier to assess.
 
 ## Presentation Development:
 [Watch my presentation here](https://github.com/trishvilladiego/CSST106-CS4A/raw/d75b1caa27895373fcef094e034c4bedda5a724c/Computer%20Vision.mp4)
