@@ -39,7 +39,7 @@ An example of real-world AI application that utilizes computer vision is **medic
 (https://colab.research.google.com/github/asmaesough/Brain-Tumor-Detection/blob/main/Brain_Tumor_Detection.ipynb)
 
 ## Presentation Development:
-*(Video insert here:)*
+[Watch my presentation here](https://github.com/trishvilladiego/CSST106-CS4A/raw/d75b1caa27895373fcef094e034c4bedda5a724c/Computer%20Vision.mp4)
 
 ## Extension Activity:
 
