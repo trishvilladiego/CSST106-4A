@@ -2,7 +2,11 @@
 
 ## Objective: 
 Understand the importance of computer vision and image processing in Artificial Intelligence (AI) and 
-explore how these technologies enable AI systems to analyze and interpret visual data. 
+explore how these technologies enable AI systems to analyze and interpret visual data.
+
+# Presentation Development
+
+https://github.com/user-attachments/assets/69ebe628-f8f8-4c49-9b3d-a5e73a525f9f
 
 # Instructions:
 
@@ -51,9 +55,6 @@ An example of real-world AI application that utilizes computer vision is **medic
 - **Precise Tumor Identification:** Helps in clearly identifying the tumor boundary, aiding radiologists in making more accurate diagnoses.
 - **Automated Process:** Reduces manual effort, speeding up the diagnostic process.
 - **Visual Output:** The model generates a segmented image where the tumor is highlighted, making it easier to assess.
-
-## Presentation Development:
-[Watch my presentation here](https://github.com/trishvilladiego/CSST106-CS4A/raw/d75b1caa27895373fcef094e034c4bedda5a724c/Computer%20Vision.mp4)
 
 ## Extension Activity:
 
