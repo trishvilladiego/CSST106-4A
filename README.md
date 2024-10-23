@@ -5,7 +5,7 @@ Welcome to the repository of the subject CSST 106 - Computer Vision. This reposi
 ## Table of Contents
 - [Exercises](#exercises)
 - [Machine Problems](#machine-problems)
-- [Midterm Exam](#midterm-exam)
+- [Midterm Project](#midterm-project)
 
 ## Exercises
 These exercises focus on key computer vision concepts and techniques, providing hands-on experience with image processing, feature extraction, and object detection.
