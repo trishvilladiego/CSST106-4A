@@ -146,13 +146,7 @@ plt.show()
 
 # **Task 5: Application of Feature Matching**
 
-**Real-World Applications (Image Stitching using Homography)**
-In this task, you use matched keypoints from two images to align or "stitch" them together. Homography
-is a mathematical transformation that maps points from one image to another, which is useful for aligning
-images taken from different angles or perspectives. This process is used in image stitching (e.g., creating
-panoramas), where you align and merge images to form a larger one.
-The code uses the keypoints matched between two images and calculates the homography matrix. This
-matrix is then used to warp one image to align it with the other.
+**Real-World Applications (Image Stitching using Homography)** In this task, you use matched keypoints from two images to align or "stitch" them together. Homography is a mathematical transformation that maps points from one image to another, which is useful for aligning images taken from different angles or perspectives. This process is used in image stitching (e.g., creating panoramas), where you align and merge images to form a larger one. The code uses the keypoints matched between two images and calculates the homography matrix. This matrix is then used to warp one image to align it with the other.
 
 **Key Points:**
 * Homography is used to align images.
@@ -197,9 +191,7 @@ plt.show()
 
 
 # Task 6: Combining Feature Extraction Methods
-
-Combining SIFT and ORB
-By combining two feature extraction methods (SIFT and ORB), you can take advantage of the strengths of both. For example, SIFT is more accurate, but ORB is faster. By detecting keypoints using both methods, you can compare how they perform on different types of images and possibly combine their outputs for more robust feature detection and matching. In the code, we extract keypoints from two images using both SIFT and ORB, and then you can use a matcher to compare and match the features detected by both methods.
+**Combining SIFT and ORB** By combining two feature extraction methods (SIFT and ORB), you can take advantage of the strengths of both. For example, SIFT is more accurate, but ORB is faster. By detecting keypoints using both methods, you can compare how they perform on different types of images and possibly combine their outputs for more robust feature detection and matching. In the code, we extract keypoints from two images using both SIFT and ORB, and then you can use a matcher to compare and match the features detected by both methods.
 
 **Key Points:**
 * Combining methods can improve performance in some applications.
