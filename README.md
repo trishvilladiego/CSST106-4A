@@ -1,4 +1,5 @@
 # CSST106 - Computer Vision
+## Villadiego, Trish - CS4A
 
 Welcome to the repository of the subject CSST 106 - Computer Vision. This repository serves as a compilation of my school activities, including programming exercises, machine problems, and the midterm exam. Each section is organized in its respective folder to facilitate easy navigation and review.
 
