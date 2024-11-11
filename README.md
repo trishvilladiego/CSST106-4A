@@ -27,4 +27,4 @@ These machine problems present challenging tasks that build practical skills in 
 ## Midterm Project
 The midterm project applies various computer vision techniques learned throughout the course, focusing on implementing an object detection model.
 
-- [Midterm Project: Implementing Object Detection on a Dataset](./Midterm_Project/4A-VILLADIEGO-MP)
+- [Midterm Project: Implementing Object Detection on a Dataset](./Midterm_Project)
